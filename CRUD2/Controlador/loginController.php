@@ -3,8 +3,8 @@ session_start();
 require_once '../Conexao/loginDAO.php';
 
 
-$login = $_POST['login'];
-$senha = md5($_POST['senha']);
+$login = victor;
+$senha = 123456;
 
 $loginDAO = new LoginDAO();
 $login = $loginDAO->login($login, $senha);
