@@ -50,7 +50,7 @@
 								<li><a href="#!/page_Home"><span></span><strong>Home</strong></a></li>
                                                                 <li><a href="#!/Login" target="wrapper"><span></span><strong>Login</strong></a></li>
                                                                
-								<li><a href="#!/CadastrO" target="wrapper"><span></span><strong>CadastrOOOo</strong></a></li>
+								<li><a href="#!/CadastrO" target="wrapper"><span></span><strong>Cadastro</strong></a></li>
                                                               
 						</nav>
 					</header>
