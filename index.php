@@ -78,7 +78,7 @@
 										<a href="#" class="close" data-type="close"><span></span></a>
 										
 										<div class="wrapper">
-								<form class="box login" action="CRUD2/Controlador/loginController.php" method="post">
+								<form class="box login" action="../../indexFuncionario.php" method="post">
 	<fieldset class="boxBody">
 	  <label>Login</label>
 	  <input type="text" tabindex="1" placeholder="Login" name="login" required>
